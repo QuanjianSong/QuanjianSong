@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi👋, I'm Quanjian Song(宋泉鉴)
+I'm a master student of [MAC Laboratory](https://mac.xmu.edu.cn/) at Xiamen University(XMU). I received the B.E. degree from Zhejiang University of Technology (ZJUT) in 2024. 
+My research interests are in computer vision and machine learning, with a particular focus on image generation and video generation.
+For more information, please visit my [Personal Homepage](https://quanjiansong.github.io/).
 
 <!--
 **QuanjianSong/QuanjianSong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
