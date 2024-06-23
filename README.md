@@ -3,8 +3,7 @@ I'm a master student of [MAC Laboratory](https://mac.xmu.edu.cn/) at Xiamen Univ
 My research interests are in computer vision and machine learning, with a particular focus on image generation and video generation.
 For more information, please visit my [Personal Homepage](https://quanjiansong.github.io/).
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 
 <!--
