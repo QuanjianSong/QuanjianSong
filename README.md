@@ -3,7 +3,7 @@ I'm a master student of [MAC Laboratory](https://mac.xmu.edu.cn/) at Xiamen Univ
 My research interests are in computer vision and machine learning, with a particular focus on image generation and video generation.
 For more information, please visit my [Personal Homepage](https://quanjiansong.github.io/).
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=QuanjianSong.visitor-badge&left_color=green&right_color=red)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FQuanjianSong&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FQuanjianSong)
 
 
 <!--
