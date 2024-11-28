@@ -1,6 +1,6 @@
 ## Hi👋, I'm Quanjian Song(宋泉鉴)
 I'm a master student of [MAC Laboratory](https://mac.xmu.edu.cn/) at Xiamen University(XMU). I received the B.E. degree from Zhejiang University of Technology (ZJUT) in 2024. 
-My research interests are in computer vision and machine learning, with a particular focus on image generation and video generation.
+My research interests are in computer vision and machine learning, with a particular focus Efficient Video/Image Editing、MLLMs Compressing.
 For more information, please visit my [Personal Homepage](https://quanjiansong.github.io/).
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FQuanjianSong&labelColor=%23697689&countColor=%23ff8a65&style=plastic&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FQuanjianSong)
