@@ -1,6 +1,6 @@
 Hi👋, I am Quanjian Song. My current research interests primarily include: 
 
-🌟 **Visual Generation for Application**: Controllable Video Generation, Streaming/Interactive Avatar/World Models.
+🌟 **Visual Generation for Application**: Controllable Generation/Editing, Streaming/Interactive Avatar/World Models.
 
 🔧 **Visual Generation for Post-Training**: AR Distillation, Few-Step Distillation, Reinforcement Learning.
 
